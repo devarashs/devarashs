@@ -7,21 +7,25 @@ I'm a passionate developer with experience in creating web and mobile applicatio
 - **Programming Languages:** 
   - JavaScript (JS)
   - TypeScript (TS)
-  - Node.js
+
+- **Backend Development:**
+  - Node JS
+  - Exprss JS
+  - Mongoose
 
 - **Databases:**
   - MongoDB
 
 - **Web Development:**
   - Building responsive web applications
-  - Frontend frameworks (React, Vue.js, etc.)
+  - Frontend frameworks
 
 - **Mobile Development:**
   - Developing cross-platform mobile apps
 
 - **Server Infrastructure:**
   - Deploying and managing server environments
-  - Cloud services (AWS, Azure, etc.)
+  - Cloud services.
 
 
 Feel free to explore my repositories for more projects and contributions!
@@ -30,9 +34,9 @@ Feel free to explore my repositories for more projects and contributions!
 
 I'm constantly working to improve my skills and stay updated with the latest technologies. Right now, I’m focusing on:
 
-- Advanced Node.js concepts
 - Microservices architecture
 - DevOps practices
+- Golang
 
 ## 🤝 Let's Connect
 
