@@ -18,10 +18,10 @@ I'm a passionate developer with experience in creating web and mobile applicatio
 
 - **Web Development:**
   - Building responsive web applications
-  - Frontend frameworks
+  - Frontend frameworks (React JS , Next JS)
 
 - **Mobile Development:**
-  - Developing cross-platform mobile apps
+  - Developing cross-platform mobile apps (React Native , PWA)
 
 - **Server Infrastructure:**
   - Deploying and managing server environments
@@ -30,13 +30,19 @@ I'm a passionate developer with experience in creating web and mobile applicatio
 
 Feel free to explore my repositories for more projects and contributions!
 
-## 🌱 Currently Learning
+## 🌱 Currently Learning & Studying
 
 I'm constantly working to improve my skills and stay updated with the latest technologies. Right now, I’m focusing on:
 
+- Advanced Node.js concepts
 - Microservices architecture
 - DevOps practices
-- Golang
+- **Cybersecurity:** 
+- **Artificial Intelligence & Deep Learning:** 
+- **Golang:** 
+
+Additionally, I am currently pursuing my Master's degree in Computer Engineering with a specialization in Artificial Intelligence and Deep Learning. This journey allows me to deepen my understanding and contribute to innovative solutions in the field.
+
 
 ## 🤝 Let's Connect
 
