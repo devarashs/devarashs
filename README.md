@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Dev Arash!
 
 I'm a passionate developer with experience in creating web and mobile applications, as well as managing server infrastructures. My journey in technology has allowed me to work on a variety of exciting projects, and I’m always eager to learn and explore new challenges.
 
