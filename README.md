@@ -40,9 +40,9 @@ I'm constantly working to improve my skills and stay updated with the latest tec
 - Advanced Node.js concepts
 - Microservices architecture
 - DevOps practices
-- **Cybersecurity:** 
-- **Artificial Intelligence & Deep Learning:** 
-- **Golang:** 
+- **Cybersecurity** 
+- **Artificial Intelligence & Deep Learning** 
+- **Golang** 
 
 Additionally, I am currently pursuing my Master's degree in Computer Engineering with a specialization in Artificial Intelligence and Deep Learning. This journey allows me to deepen my understanding and contribute to innovative solutions in the field.
 
