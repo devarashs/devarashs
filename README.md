@@ -14,8 +14,8 @@ Currently focused on:
 
 ### 🛠 Tech & Tools
 
-- **Languages**: JavaScript (Node.js), Go, C/C++
-- **Backend**: REST APIs, WebSockets, Telegram Bot APIs, Python
+- **Languages**: JavaScript (Node.js), Go, C/C++, Python
+- **Backend**: APIs, Telegram Bots
 - **Infra**: Docker, CI/CD, Cloud (privacy-first), Linux
 - **Security**: Encryption practices, secure comms, paranoia-fueled workflows
 - **Frontend (selectively)**: React, Next.js
