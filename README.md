@@ -1,4 +1,4 @@
-# Arash Salehkhah
+# Arash Salekah
 
 ### Backend Engineer · Security Enthusiast · Digital Privacy Advocate
 
