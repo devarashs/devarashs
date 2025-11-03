@@ -25,7 +25,7 @@ Currently focused on:
 
 ### 📬 Contact
 
-- **Email**: [me@devarash.icu](mailto:me@devarash.icu)
+- **Email**: [me@devarash.icu](mailto:iamdevarash@gmail.com)
 
 ---
 
